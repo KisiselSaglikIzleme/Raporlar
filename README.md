@@ -1,2 +1,2 @@
 # Raporlar
-Ödeve dair rapor dosyaları.
+Ödeve ait rapor dosyaları.
