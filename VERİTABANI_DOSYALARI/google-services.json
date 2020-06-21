@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891703076044",
+    "firebase_url": "https://saglik-7c0ef.firebaseio.com",
+    "project_id": "saglik-7c0ef",
+    "storage_bucket": "saglik-7c0ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891703076044:android:2abcf6be4378962fdf4e69",
+        "android_client_info": {
+          "package_name": "com.example.saglik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891703076044-ug2k3ve2tgp70do93ls8p8qn1hhhi396.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saglik",
+            "certificate_hash": "ae4348e41da76584f8dbacb0f2686074145cba6a"
+          }
+        },
+        {
+          "client_id": "891703076044-hirk23tvlvajgoseoia3auqotrt8hppk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRUbYHtCeu4GFrrQCF0l0IL3NLUW6mGqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891703076044-hirk23tvlvajgoseoia3auqotrt8hppk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
